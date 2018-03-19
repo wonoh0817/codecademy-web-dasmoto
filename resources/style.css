@@ -16,19 +16,19 @@ div h2 {
   color: white;
 }
 
-div span {
+.crafts span {
   font-weight: bold;
   color: blue;
 }
 
-.brushes h2 {
+#brushes {
   background-color: mediumspringgreen;
 }
 
-.frames h2 {
+#frames {
   background-color: lightcoral;
 }
 
-.paint h2 {
+#paint {
   background-color: skyblue;
 }
